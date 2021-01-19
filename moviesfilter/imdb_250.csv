@@ -1,0 +1,751 @@
+ranking,movie,rating,metascore,certification,year,runtime,genre,Directors,Actors,Votes,release_date,Country,Language
+1.,The Shawshank Redemption,9.3,80        ,R,1994,142 min,"
+Drama            ",Frank Darabont,"Tim Robbins,Morgan Freeman,Bob Gunton,William Sadler",2323905,"14 October 1994 (USA)
+",USA,English
+6.,The Lord of the Rings: The Return of the King,8.9,94        ,PG-13,2003,201 min,"
+Action, Adventure, Drama            ",Peter Jackson,"Elijah Wood,Viggo Mortensen,Ian McKellen,Orlando Bloom",1631104,"17 December 2003 (USA)
+","New Zealand,USA","English,Quenya,Old English,Sindarin"
+8.,Schindler's List,8.9,94        ,R,1993,195 min,"
+Biography, Drama, History            ",Steven Spielberg,"Liam Neeson,Ralph Fiennes,Ben Kingsley,Caroline Goodall",1204931,"4 February 1994 (USA)
+",USA,"English,Hebrew,German,Polish,Latin"
+10.,Fight Club,8.8,66        ,R,1999,139 min,"
+Drama            ",David Fincher,"Brad Pitt,Edward Norton,Meat Loaf,Zach Grenier",1840693,"15 October 1999 (USA)
+","USA,Germany,Italy",English
+9.,Inception,8.8,74        ,PG-13,2010,148 min,"
+Action, Adventure, Sci-Fi            ",Christopher Nolan,"Leonardo DiCaprio,Joseph Gordon-Levitt,Elliot Page,Ken Watanabe",2049311,"16 July 2010 (USA)
+","USA,UK","English,Japanese,French"
+11.,The Lord of the Rings: The Fellowship of the Ring,8.8,92        ,PG-13,2001,178 min,"
+Action, Adventure, Drama            ",Peter Jackson,"Elijah Wood,Ian McKellen,Orlando Bloom,Sean Bean",1647747,"19 December 2001 (USA)
+","New Zealand,USA","English,Sindarin"
+4.,The Godfather: Part II,9,90        ,R,1974,202 min,"
+Crime, Drama            ",Francis Ford Coppola,"Al Pacino,Robert De Niro,Robert Duvall,Diane Keaton",1120917,"18 December 1974 (USA)
+",USA,"English,Italian,Spanish,Latin,Sicilian"
+21.,Interstellar,8.6,74        ,PG-13,2014,169 min,"
+Adventure, Drama, Sci-Fi            ",Christopher Nolan,"Matthew McConaughey,Anne Hathaway,Jessica Chastain,Mackenzie Foy",1494191,"7 November 2014 (USA)
+","USA,UK,Canada",English
+20.,Parasite,8.6,96        ,R,2019,132 min,"
+Comedy, Drama, Thriller            ",Bong Joon Ho,"Song Kang-Ho,Lee Sun-kyun,Cho Yeo-jeong,Choi Woo-sik",527380,"8 November 2019 (USA)
+",South Korea,"Korean,English"
+2.,The Godfather,9.2,100        ,R,1972,175 min,"
+Crime, Drama            ",Francis Ford Coppola,"Marlon Brando,Al Pacino,James Caan,Diane Keaton",1605459,"24 March 1972 (USA)
+",USA,"English,Italian,Latin"
+3.,The Dark Knight,9,84        ,PG-13,2008,152 min,"
+Action, Crime, Drama            ",Christopher Nolan,"Christian Bale,Heath Ledger,Aaron Eckhart,Michael Caine",2285757,"18 July 2008 (USA)
+","USA,UK","English,Mandarin"
+18.,One Flew Over the Cuckoo's Nest,8.7,83        ,R,1975,133 min,"
+Drama            ",Milos Forman,"Jack Nicholson,Louise Fletcher,Michael Berryman,Peter Brocco",911910,"19 November 1975 (USA)
+",USA,English
+5.,12 Angry Men,9,96        ,Approved,1957,96 min,"
+Crime, Drama            ",Sidney Lumet,"Henry Fonda,Lee J. Cobb,Martin Balsam,John Fiedler",683965,"10 April 1957 (USA)
+",USA,English
+7.,Pulp Fiction,8.9,94        ,R,1994,154 min,"
+Crime, Drama            ",Quentin Tarantino,"John Travolta,Uma Thurman,Samuel L. Jackson,Bruce Willis",1812632,"14 October 1994 (USA)
+",USA,"English,Spanish,French"
+49.,Once Upon a Time in the West,8.5,80        ,PG-13,1968,165 min,"
+Western            ",Sergio Leone,"Henry Fonda,Charles Bronson,Claudia Cardinale,Jason Robards",300805,"4 July 1969 (USA)
+","Italy,USA","English,Italian"
+48.,Back to the Future,8.5,87        ,PG,1985,116 min,"
+Adventure, Comedy, Sci-Fi            ",Robert Zemeckis,"Michael J. Fox,Christopher Lloyd,Lea Thompson,Crispin Glover",1049371,"3 July 1985 (USA)
+",USA,English
+50.,Psycho,8.5,97        ,R,1960,109 min,"
+Horror, Mystery, Thriller            ",Alfred Hitchcock,"Anthony Perkins,Janet Leigh,Vera Miles,John Gavin",600110,"8 September 1960 (USA)
+",USA,English
+47.,Grave of the Fireflies,8.5,94        ,Not Rated,1988,89 min,"
+Animation, Drama, War            ",Isao Takahata,"Tsutomu Tatsumi,Ayano Shiraishi,Akemi Yamaguchi,Yoshiko Shinohara",232510,"26 July 1989 (USA)
+",Japan,Japanese
+19.,Hamilton,8.6,90        ,PG-13,2020,160 min,"
+Biography, Drama, History            ",Thomas Kail,"Lin-Manuel Miranda,Phillipa Soo,Leslie Odom Jr.,Renée Elise Goldsberry",50749,"3 July 2020 (USA)
+",USA,English
+46.,Cinema Paradiso,8.5,80        ,R,1988,155 min,"
+Drama            ",Giuseppe Tornatore,"Philippe Noiret,Enzo Cannavale,Antonella Attili,Isa Danieli",228563,"23 February 1990 (USA)
+","Italy,France",Italian
+17.,Star Wars: Episode V - The Empire Strikes Back,8.7,82        ,PG,1980,124 min,"
+Action, Adventure, Fantasy            ",Irvin Kershner,"Mark Hamill,Harrison Ford,Carrie Fisher,Billy Dee Williams",1150886,"20 June 1980 (USA)
+",USA,English
+45.,Terminator 2: Judgment Day,8.5,75        ,R,1991,137 min,"
+Action, Sci-Fi            ",James Cameron,"Arnold Schwarzenegger,Linda Hamilton,Edward Furlong,Robert Patrick",989795,"3 July 1991 (USA)
+","USA,France","English,Spanish"
+44.,The Lion King,8.5,88        ,G,1994,88 min,"
+Animation, Adventure, Drama            ","Roger Allers,Rob Minkoff","Matthew Broderick,Jeremy Irons,James Earl Jones,Whoopi Goldberg",934505,"24 June 1994 (USA)
+",USA,"English,Swahili,Xhosa,Zulu"
+42.,The Usual Suspects,8.5,77        ,R,1995,106 min,"
+Crime, Mystery, Thriller            ",Bryan Singer,"Kevin Spacey,Gabriel Byrne,Chazz Palminteri,Stephen Baldwin",984850,"16 August 1995 (USA)
+","USA,Germany","English,Hungarian,Spanish,French"
+40.,Gladiator,8.5,67        ,R,2000,155 min,"
+Action, Adventure, Drama            ",Ridley Scott,"Russell Crowe,Joaquin Phoenix,Connie Nielsen,Oliver Reed",1331628,"5 May 2000 (USA)
+","USA,UK,Malta,Morocco",English
+41.,American History X,8.5,62        ,R,1998,119 min,"
+Drama            ",Tony Kaye,"Edward Norton,Edward Furlong,Beverly D'Angelo,Jennifer Lien",1028736,"20 November 1998 (USA)
+",USA,English
+39.,The Pianist,8.5,85        ,R,2002,150 min,"
+Biography, Drama, Music            ",Roman Polanski,"Adrien Brody,Thomas Kretschmann,Frank Finlay,Emilia Fox",723302,"28 March 2003 (USA)
+","UK,France,Poland,Germany,USA","English,German,Russian"
+100.,Reservoir Dogs,8.3,79        ,R,1992,99 min,"
+Crime, Drama, Thriller            ",Quentin Tarantino,"Harvey Keitel,Tim Roth,Michael Madsen,Chris Penn",912180,"2 September 1992 (India)
+",USA,English
+99.,Braveheart,8.3,68        ,R,1995,178 min,"
+Biography, Drama, History            ",Mel Gibson,"Mel Gibson,Sophie Marceau,Patrick McGoohan,Angus Macfadyen",953999,"24 May 1995 (USA)
+",USA,"English,French,Latin,Scottish Gaelic,Italian"
+98.,Toy Story,8.3,95        ,G,1995,81 min,"
+Animation, Adventure, Comedy            ",John Lasseter,"Tom Hanks,Tim Allen,Don Rickles,Jim Varney",880663,"22 November 1995 (USA)
+",USA,English
+97.,Children of Heaven,8.3,77        ,PG,1997,89 min,"
+Drama, Family, Sport            ",Majid Majidi,"Mohammad Amir Naji,Amir Farrokh Hashemian,Bahare Seddiqi,Nafise Jafar-Mohammadi",64554,"22 January 1999 (USA)
+",Iran,Persian
+38.,The Departed,8.5,85        ,R,2006,151 min,"
+Crime, Drama, Thriller            ",Martin Scorsese,"Leonardo DiCaprio,Matt Damon,Jack Nicholson,Mark Wahlberg",1180503,"6 October 2006 (USA)
+","USA,Hong Kong","English,Cantonese"
+43.,Léon: The Professional,8.5,64        ,R,1994,110 min,"
+Action, Crime, Drama            ",Luc Besson,"Jean Reno,Gary Oldman,Natalie Portman,Danny Aiello",1027331,"18 November 1994 (USA)
+","France,USA","English,Italian,French"
+37.,The Prestige,8.5,66        ,PG-13,2006,130 min,"
+Drama, Mystery, Sci-Fi            ",Christopher Nolan,"Christian Bale,Hugh Jackman,Scarlett Johansson,Michael Caine",1180250,"20 October 2006 (USA)
+","UK,USA",English
+96.,Good Will Hunting,8.3,70        ,R,1997,126 min,"
+Drama, Romance            ",Gus Van Sant,"Robin Williams,Matt Damon,Ben Affleck,Stellan Skarsgård",854657,"9 January 1998 (USA)
+",USA,English
+95.,American Beauty,8.3,84        ,R,1999,122 min,"
+Drama            ",Sam Mendes,"Kevin Spacey,Annette Bening,Thora Birch,Wes Bentley",1063758,"1 October 1999 (USA)
+",USA,English
+93.,Snatch,8.3,55        ,R,2000,102 min,"
+Comedy, Crime            ",Guy Ritchie,"Jason Statham,Brad Pitt,Benicio Del Toro,Dennis Farina",777366,"19 January 2001 (USA)
+","UK,USA","English,Russian"
+90.,Inglourious Basterds,8.3,69        ,R,2009,153 min,"
+Adventure, Drama, War            ",Quentin Tarantino,"Brad Pitt,Diane Kruger,Eli Roth,Mélanie Laurent",1256256,"21 August 2009 (USA)
+","USA,Germany","English,German,French,Italian"
+92.,Amélie,8.3,69        ,R,2001,122 min,"
+Comedy, Romance            ",Jean-Pierre Jeunet,"Audrey Tautou,Mathieu Kassovitz,Rufus,Lorella Cravotta",699857,"8 February 2002 (USA)
+","France,Germany","French,Russian,English"
+89.,Toy Story 3,8.3,92        ,G,2010,103 min,"
+Animation, Adventure, Comedy            ",Lee Unkrich,"Tom Hanks,Tim Allen,Joan Cusack,Ned Beatty",752009,"18 June 2010 (USA)
+",USA,"English,Spanish"
+88.,My Father and My Son,8.3,,,2005,112 min,"
+Drama, Family            ",Çagan Irmak,"Çetin Tekindor,Fikret Kuskan,Hümeyra,Ege Tanman",78163,"18 November 2005 (Turkey)
+",Turkey,Turkish
+87.,Incendies,8.3,80        ,R,2010,131 min,"
+Drama, Mystery, War            ",Denis Villeneuve,"Lubna Azabal,Mélissa Désormeaux-Poulin,Maxim Gaudette,Mustafa Kamel",147941,"12 January 2011 (France)
+","Canada,France","French,Arabic,English"
+94.,Requiem for a Dream,8.3,68        ,R,2000,102 min,"
+Drama            ",Darren Aronofsky,"Ellen Burstyn,Jared Leto,Jennifer Connelly,Marlon Wayans",761742,"15 December 2000 (USA)
+",USA,English
+86.,A Separation,8.3,95        ,PG-13,2011,123 min,"
+Drama            ",Asghar Farhadi,"Payman Maadi,Leila Hatami,Sareh Bayat,Shahab Hosseini",218289,"29 October 2012 (India)
+","Iran,France,Australia",Persian
+85.,The Hunt,8.3,77        ,R,2012,115 min,"
+Drama            ",Thomas Vinterberg,"Mads Mikkelsen,Thomas Bo Larsen,Annika Wedderkopp,Lasse Fogelstrøm",277528,"10 January 2013 (Denmark)
+","Denmark,Sweden","Danish,English,Polish"
+84.,Andhadhun,8.3,,Not Rated,2018,139 min,"
+Crime, Drama, Music            ",Sriram Raghavan,"Ayushmann Khurrana,Tabu,Radhika Apte,Anil Dhawan",70250,"5 October 2018 (USA)
+",India,"Hindi,English"
+82.,The Great Dictator,8.4,,Passed,1940,125 min,"
+Comedy, Drama, War            ",Charles Chaplin,"Charles Chaplin,Paulette Goddard,Jack Oakie,Reginald Gardiner",201622,"7 March 1941 (USA)
+",USA,"English,Esperanto"
+81.,Sunset Blvd.,8.4,,Passed,1950,110 min,"
+Drama, Film-Noir            ",Billy Wilder,"William Holden,Gloria Swanson,Erich von Stroheim,Nancy Olson",200214,"29 September 1950 (Australia)
+",USA,English
+80.,Rear Window,8.4,100        ,PG,1954,112 min,"
+Mystery, Thriller            ",Alfred Hitchcock,"James Stewart,Grace Kelly,Wendell Corey,Thelma Ritter",441059,"September 1954 (USA)
+",USA,English
+91.,Eternal Sunshine of the Spotless Mind,8.3,89        ,R,2004,108 min,"
+Drama, Romance, Sci-Fi            ",Michel Gondry,"Jim Carrey,Kate Winslet,Tom Wilkinson,Gerry Robert Byrne",905940,"19 March 2004 (USA)
+",USA,English
+79.,Paths of Glory,8.4,90        ,Approved,1957,88 min,"
+Drama, War            ",Stanley Kubrick,"Kirk Douglas,Ralph Meeker,Adolphe Menjou,George Macready",176711,"25 December 1957 (USA)
+",USA,"English,German,Latin"
+78.,Witness for the Prosecution,8.4,,Approved,1957,116 min,"
+Crime, Drama, Mystery            ",Billy Wilder,"Tyrone Power,Marlene Dietrich,Charles Laughton,Elsa Lanchester",107871,"6 February 1958 (USA)
+",USA,"English,German"
+76.,High and Low,8.4,,Not Rated,1963,143 min,"
+Crime, Drama, Mystery            ",Akira Kurosawa,"Toshirô Mifune,Yutaka Sada,Tatsuya Nakadai,Kyôko Kagawa",33556,"26 November 1963 (USA)
+",Japan,Japanese
+77.,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,8.4,97        ,PG,1964,95 min,"
+Comedy            ",Stanley Kubrick,"Peter Sellers,George C. Scott,Sterling Hayden,Keenan Wynn",447772,"29 January 1964 (USA)
+","UK,USA","English,Russian"
+83.,1917,8.3,78        ,R,2019,119 min,"
+Drama, Thriller, War            ",Sam Mendes,"Dean-Charles Chapman,George MacKay,Daniel Mays,Colin Firth",406951,"10 January 2020 (USA)
+","USA,UK,India,Spain,Canada,China","English,French,German"
+114.,The Apartment,8.3,94        ,Approved,1960,125 min,"
+Comedy, Drama, Romance            ",Billy Wilder,"Jack Lemmon,Shirley MacLaine,Fred MacMurray,Ray Walston",163008,"29 June 1960 (Canada)
+",USA,English
+113.,Lawrence of Arabia,8.3,100        ,Approved,1962,228 min,"
+Adventure, Biography, Drama            ",David Lean,"Peter O'Toole,Alec Guinness,Anthony Quinn,Jack Hawkins",266239,"11 December 1962 (UK)
+",UK,"English,Arabic,Turkish"
+150.,Unforgiven,8.2,85        ,R,1992,130 min,"
+Drama, Western            ",Clint Eastwood,"Clint Eastwood,Gene Hackman,Morgan Freeman,Richard Harris",373535,"7 August 1992 (USA)
+",USA,English
+149.,Casino,8.2,73        ,R,1995,178 min,"
+Crime, Drama            ",Martin Scorsese,"Robert De Niro,Sharon Stone,Joe Pesci,James Woods",462569,"22 November 1995 (USA)
+","USA,France",English
+147.,The Bandit,8.2,,,1996,128 min,"
+Crime, Drama, Thriller            ",Yavuz Turgul,"Sener Sen,Ugur Yücel,Sermin Hürmeriç,Yesim Salkim",63553,"29 November 1996 (Turkey)
+","Turkey,France,Bulgaria",Turkish
+146.,L.A. Confidential,8.2,90        ,R,1997,138 min,"
+Crime, Drama, Mystery            ",Curtis Hanson,"Kevin Spacey,Russell Crowe,Guy Pearce,Kim Basinger",528937,"19 September 1997 (USA)
+",USA,English
+148.,Heat,8.2,76        ,R,1995,170 min,"
+Crime, Drama, Thriller            ",Michael Mann,"Al Pacino,Robert De Niro,Val Kilmer,Jon Voight",572514,"15 December 1995 (USA)
+",USA,"English,Spanish"
+144.,A Beautiful Mind,8.2,72        ,PG-13,2001,135 min,"
+Biography, Drama            ",Ron Howard,"Russell Crowe,Ed Harris,Jennifer Connelly,Christopher Plummer",842621,"4 January 2002 (USA)
+",USA,English
+145.,"Lock, Stock and Two Smoking Barrels",8.2,66        ,R,1998,107 min,"
+Action, Comedy, Crime            ",Guy Ritchie,"Jason Flemyng,Dexter Fletcher,Nick Moran,Jason Statham",532164,"28 August 1998 (UK)
+",UK,English
+143.,Howl's Moving Castle,8.2,80        ,PG,2004,119 min,"
+Animation, Adventure, Family            ",Hayao Miyazaki,"Chieko Baishô,Takuya Kimura,Tatsuya Gashûin,Akihiro Miwa",329708,"17 June 2005 (USA)
+",Japan,Japanese
+142.,Downfall,8.2,82        ,R,2004,156 min,"
+Biography, Drama, History            ",Oliver Hirschbiegel,"Bruno Ganz,Alexandra Maria Lara,Ulrich Matthes,Juliane Köhler",329499,"8 April 2005 (USA)
+","Germany,Austria,Italy","German,Russian,French,English"
+140.,Rang De Basanti,8.2,,Not Rated,2006,167 min,"
+Comedy, Crime, Drama            ",Rakeysh Omprakash Mehra,"Aamir Khan,Soha Ali Khan,Siddharth,Sharman Joshi",111174,"26 January 2006 (USA)
+",India,Hindi
+141.,Batman Begins,8.2,70        ,PG-13,2005,140 min,"
+Action, Adventure            ",Christopher Nolan,"Christian Bale,Michael Caine,Ken Watanabe,Liam Neeson",1299631,"15 June 2005 (USA)
+","USA,UK","English,Mandarin"
+137.,There Will Be Blood,8.2,93        ,R,2007,158 min,"
+Drama            ",Paul Thomas Anderson,"Daniel Day-Lewis,Paul Dano,Ciarán Hinds,Martin Stringer",513112,"25 January 2008 (USA)
+",USA,"English,American Sign Language"
+136.,The Wolf of Wall Street,8.2,75        ,R,2013,180 min,"
+Biography, Crime, Drama            ",Martin Scorsese,"Leonardo DiCaprio,Jonah Hill,Margot Robbie,Matthew McConaughey",1171181,"25 December 2013 (USA)
+",USA,"English,French"
+138.,Pan's Labyrinth,8.2,98        ,R,2006,118 min,"
+Drama, Fantasy, War            ",Guillermo del Toro,"Ivana Baquero,Ariadna Gil,Sergi López,Maribel Verdú",615384,"19 January 2007 (USA)
+","Mexico,Spain",Spanish
+134.,Shutter Island,8.2,63        ,R,2010,138 min,"
+Mystery, Thriller            ",Martin Scorsese,"Leonardo DiCaprio,Emily Mortimer,Mark Ruffalo,Ben Kingsley",1119694,"19 February 2010 (USA)
+",USA,"English,German"
+135.,Up,8.2,88        ,PG,2009,96 min,"
+Animation, Adventure, Comedy            ","Pete Docter,Bob Peterson","Edward Asner,Jordan Nagai,John Ratzenberger,Christopher Plummer",927996,"29 May 2009 (USA)
+",USA,English
+200.,Million Dollar Baby,8.1,86        ,PG-13,2004,132 min,"
+Drama, Sport            ",Clint Eastwood,"Hilary Swank,Clint Eastwood,Morgan Freeman,Jay Baruchel",632285,"28 January 2005 (USA)
+",USA,"English,Irish"
+196.,Mary and Max,8.1,,Not Rated,2009,92 min,"
+Animation, Comedy, Drama            ",Adam Elliot,"Toni Collette,Philip Seymour Hoffman,Eric Bana,Barry Humphries",163518,"9 April 2009 (Australia)
+",Australia,"English,Yiddish"
+199.,No Country for Old Men,8.1,91        ,R,2007,122 min,"
+Crime, Drama, Thriller            ","Ethan Coen,Joel Coen","Tommy Lee Jones,Javier Bardem,Josh Brolin,Woody Harrelson",849408,"21 November 2007 (USA)
+","USA,Mexico","English,Spanish"
+197.,How to Train Your Dragon,8.1,75        ,PG,2010,98 min,"
+Animation, Action, Adventure            ","Dean DeBlois,Chris Sanders","Jay Baruchel,Gerard Butler,Christopher Mintz-Plasse,Craig Ferguson",662173,"26 March 2010 (USA)
+",USA,English
+198.,Into the Wild,8.1,73        ,R,2007,148 min,"
+Adventure, Biography, Drama            ",Sean Penn,"Emile Hirsch,Vince Vaughn,Catherine Keener,Marcia Gay Harden",568746,"19 October 2007 (USA)
+",USA,"English,Danish"
+195.,Hachi: A Dog's Tale,8.1,,G,2009,93 min,"
+Biography, Drama, Family            ",Lasse Hallström,"Richard Gere,Joan Allen,Cary-Hiroyuki Tagawa,Sarah Roemer",251235,"4 October 2017 (India)
+","UK,USA","English,Japanese"
+139.,V for Vendetta,8.2,62        ,R,2005,132 min,"
+Action, Drama, Sci-Fi            ",James McTeigue,"Hugo Weaving,Natalie Portman,Rupert Graves,Stephen Rea",1026732,"17 March 2006 (USA)
+","USA,UK,Germany",English
+194.,Harry Potter and the Deathly Hallows: Part 2,8.1,85        ,PG-13,2011,130 min,"
+Adventure, Drama, Fantasy            ",David Yates,"Daniel Radcliffe,Emma Watson,Rupert Grint,Michael Gambon",757805,"15 July 2011 (USA)
+","UK,USA",English
+191.,Prisoners,8.1,70        ,R,2013,153 min,"
+Crime, Drama, Mystery            ",Denis Villeneuve,"Hugh Jackman,Jake Gyllenhaal,Viola Davis,Melissa Leo",595104,"20 September 2013 (USA)
+",USA,English
+190.,Spotlight,8.1,93        ,R,I) (2015,129 min,"
+Biography, Crime, Drama            ",Tom McCarthy,"Mark Ruffalo,Michael Keaton,Rachel McAdams,Liev Schreiber",416454,"20 November 2015 (USA)
+",USA,English
+192.,Mad Max: Fury Road,8.1,90        ,R,2015,120 min,"
+Action, Adventure, Sci-Fi            ",George Miller,"Tom Hardy,Charlize Theron,Nicholas Hoult,Zoë Kravitz",874529,"15 May 2015 (USA)
+","Australia,South Africa,USA","English,Russian"
+188.,Rush,8.1,74        ,R,I) (2013,123 min,"
+Action, Biography, Drama            ",Ron Howard,"Daniel Brühl,Chris Hemsworth,Olivia Wilde,Alexandra Maria Lara",430078,"27 September 2013 (USA)
+","UK,Germany,USA","English,German,Italian,French,Spanish"
+193.,Gran Torino,8.1,72        ,R,2008,116 min,"
+Drama            ",Clint Eastwood,"Clint Eastwood,Bee Vang,Christopher Carley,Ahney Her",716755,"9 January 2009 (USA)
+","Germany,USA","English,Hmong"
+189.,Ford v Ferrari,8.1,81        ,PG-13,2019,152 min,"
+Action, Biography, Drama            ",James Mangold,"Matt Damon,Christian Bale,Jon Bernthal,Caitriona Balfe",281861,"15 November 2019 (USA)
+",USA,"English,Italian,French,Japanese"
+187.,12 Years a Slave,8.1,96        ,R,2013,134 min,"
+Biography, Drama, History            ",Steve McQueen,"Chiwetel Ejiofor,Michael Kenneth Williams,Michael Fassbender,Brad Pitt",635731,"8 November 2013 (USA)
+","USA,UK",English
+248.,The General,8.1,,Passed,1926,67 min,"
+Action, Adventure, Comedy            ","Clyde Bruckman,Buster Keaton","Buster Keaton,Marion Mack,Glen Cavender,Jim Farley",80488,"2 January 1927 (USA)
+",USA,"None,English"
+186.,Inside Out,8.1,94        ,PG,I) (2015,95 min,"
+Animation, Adventure, Comedy            ","Pete Docter,Ronnie Del Carmen","Amy Poehler,Bill Hader,Lewis Black,Mindy Kaling",607215,"19 June 2015 (USA)
+",USA,"English,Portuguese"
+185.,Hacksaw Ridge,8.1,71        ,R,2016,139 min,"
+Biography, Drama, History            ",Mel Gibson,"Andrew Garfield,Sam Worthington,Luke Bracey,Teresa Palmer",430601,"4 November 2016 (USA)
+","Australia,USA","English,Japanese"
+227.,Monty Python's Life of Brian,8.1,77        ,R,1979,94 min,"
+Comedy            ",Terry Jones,"Graham Chapman,John Cleese,Michael Palin,Terry Gilliam",365028,"17 August 1979 (USA)
+",UK,"English,Latin"
+240.,On the Waterfront,8.1,91        ,Approved,1954,108 min,"
+Crime, Drama, Thriller            ",Elia Kazan,"Marlon Brando,Karl Malden,Lee J. Cobb,Rod Steiger",141144,"12 October 1954 (India)
+",USA,English
+249.,The Help,8,62        ,PG-13,2011,146 min,"
+Drama            ",Tate Taylor,"Emma Stone,Viola Davis,Octavia Spencer,Bryce Dallas Howard",425497,"10 August 2011 (USA)
+",USA,English
+250.,The Princess Bride,8,77        ,PG,1987,98 min,"
+Adventure, Family, Fantasy            ",Rob Reiner,"Cary Elwes,Mandy Patinkin,Robin Wright,Chris Sarandon",391504,"9 October 1987 (USA)
+",USA,English
+246.,It Happened One Night,8.1,87        ,Approved,1934,105 min,"
+Comedy, Romance            ",Frank Capra,"Clark Gable,Claudette Colbert,Walter Connolly,Roscoe Karns",93281,"22 February 1934 (USA)
+",USA,English
+247.,The Passion of Joan of Arc,8.1,,Passed,1928,114 min,"
+Biography, Drama, History            ",Carl Theodor Dreyer,"Maria Falconetti,Eugene Silvain,André Berley,Maurice Schutz",47154,"25 October 1928 (France)
+",France,"None,French"
+245.,Gone with the Wind,8.1,97        ,Passed,1939,238 min,"
+Drama, History, Romance            ","Victor Fleming,George Cukor,Sam Wood","Clark Gable,Vivien Leigh,Thomas Mitchell,Barbara O'Neil",288268,"17 January 1940 (USA)
+",USA,English
+242.,The Third Man,8.1,97        ,Approved,1949,93 min,"
+Film-Noir, Mystery, Thriller            ",Carol Reed,"Orson Welles,Joseph Cotten,Alida Valli,Trevor Howard",157796,"12 October 1949 (France)
+",UK,"English,German,Russian"
+243.,Rebecca,8.1,86        ,Approved,1940,130 min,"
+Drama, Mystery, Romance            ",Alfred Hitchcock,"Laurence Olivier,Joan Fontaine,George Sanders,Judith Anderson",123043,"12 April 1940 (USA)
+",USA,"English,French"
+244.,Mr. Smith Goes to Washington,8.1,73        ,Passed,1939,129 min,"
+Comedy, Drama            ",Frank Capra,"James Stewart,Jean Arthur,Claude Rains,Edward Arnold",106307,"19 October 1939 (USA)
+",USA,English
+239.,The Bridge on the River Kwai,8.1,87        ,PG,1957,161 min,"
+Adventure, Drama, War            ",David Lean,"William Holden,Alec Guinness,Jack Hawkins,Sessue Hayakawa",202215,"14 December 1957 (USA)
+","UK,USA","English,Japanese,Thai"
+241.,The Wages of Fear,8.1,85        ,Not Rated,1953,131 min,"
+Adventure, Drama, Thriller            ",Henri-Georges Clouzot,"Yves Montand,Charles Vanel,Peter van Eyck,Folco Lulli",54167,"16 February 1955 (USA)
+","France,Italy","French,English,Spanish,German,Italian,Russian"
+238.,Ben-Hur,8.1,90        ,G,1959,212 min,"
+Adventure, Drama, History            ",William Wyler,"Charlton Heston,Jack Hawkins,Stephen Boyd,Haya Harareet",218181,"18 November 1959 (Canada)
+",USA,English
+237.,The 400 Blows,8.1,,Not Rated,1959,99 min,"
+Crime, Drama            ",François Truffaut,"Jean-Pierre Léaud,Albert Rémy,Claire Maurier,Guy Decomble",104271,"16 November 1959 (USA)
+",France,"French,English"
+236.,The Battle of Algiers,8.1,96        ,Not Rated,1966,121 min,"
+Drama, War            ",Gillo Pontecorvo,"Brahim Hadjadj,Jean Martin,Yacef Saadi,Samia Kerbash",52565,"20 September 1967 (USA)
+","Italy,Algeria","Arabic,French,English"
+234.,Persona,8.1,86        ,Not Rated,1966,83 min,"
+Drama, Thriller            ",Ingmar Bergman,"Bibi Andersson,Liv Ullmann,Margaretha Krook,Gunnar Björnstrand",101982,"16 March 1967 (USA)
+",Sweden,"Swedish,English"
+233.,Cool Hand Luke,8.1,92        ,GP,1967,127 min,"
+Crime, Drama            ",Stuart Rosenberg,"Paul Newman,George Kennedy,Strother Martin,J.D. Cannon",160755,"1 November 1967 (USA)
+",USA,English
+232.,Chinatown,8.1,92        ,R,1974,130 min,"
+Drama, Mystery, Thriller            ",Roman Polanski,"Jack Nicholson,Faye Dunaway,John Huston,Perry Lopez",292149,"20 June 1974 (USA)
+",USA,"English,Cantonese,Spanish"
+230.,Network,8.1,83        ,R,1976,121 min,"
+Drama            ",Sidney Lumet,"Faye Dunaway,William Holden,Peter Finch,Robert Duvall",144125,"27 November 1976 (USA)
+",USA,English
+231.,Barry Lyndon,8.1,89        ,PG,1975,185 min,"
+Adventure, Drama, History            ",Stanley Kubrick,"Ryan O'Neal,Marisa Berenson,Patrick Magee,Hardy Krüger",148534,"18 December 1975 (USA)
+","UK,USA","English,German,French"
+229.,Rocky,8.1,70        ,PG,1976,120 min,"
+Drama, Sport            ",John G. Avildsen,"Sylvester Stallone,Talia Shire,Burt Young,Carl Weathers",514947,"3 December 1976 (USA)
+",USA,English
+228.,The Deer Hunter,8.1,86        ,R,1978,183 min,"
+Drama, War            ",Michael Cimino,"Robert De Niro,Christopher Walken,John Cazale,John Savage",309421,"23 February 1979 (USA)
+",USA,"English,Russian,Vietnamese,French,Cantonese"
+235.,Andrei Rublev,8.1,,R,1966,205 min,"
+Biography, Drama, History            ",Andrei Tarkovsky,"Anatoliy Solonitsyn,Ivan Lapikov,Nikolay Grinko,Nikolay Sergeev",46359,"October 1973 (USA)
+",Soviet Union,"Russian,Italian,Tatar"
+226.,The Elephant Man,8.1,78        ,PG,1980,124 min,"
+Biography, Drama            ",David Lynch,"Anthony Hopkins,John Hurt,Anne Bancroft,John Gielgud",218513,"10 October 1980 (USA)
+","USA,UK","English,French"
+225.,Blade Runner,8.1,84        ,R,1982,117 min,"
+Action, Sci-Fi, Thriller            ",Ridley Scott,"Harrison Ford,Rutger Hauer,Sean Young,Edward James Olmos",689388,"25 June 1982 (USA)
+",USA,"English,German,Cantonese,Japanese,Hungarian,Arabic"
+224.,The Thing,8.1,57        ,R,1982,109 min,"
+Horror, Mystery, Sci-Fi            ",John Carpenter,"Kurt Russell,Wilford Brimley,Keith David,Richard Masur",368825,"25 June 1982 (USA)
+",USA,"English,Norwegian"
+222.,"Paris, Texas",8.1,78        ,R,1984,145 min,"
+Drama            ",Wim Wenders,"Harry Dean Stanton,Nastassja Kinski,Dean Stockwell,Aurore Clément",89828,"23 August 1984 (UK)
+","West Germany,France,UK","English,Spanish"
+223.,Nausicaä of the Valley of the Wind,8.1,86        ,PG,1984,117 min,"
+Animation, Adventure, Fantasy            ",Hayao Miyazaki,"Sumi Shimamoto,Mahito Tsujimura,Hisako Kyôda,Gorô Naya",149300,"25 November 1987 (USA)
+",Japan,Japanese
+220.,Stand by Me,8.1,75        ,R,1986,89 min,"
+Adventure, Drama            ",Rob Reiner,"Wil Wheaton,River Phoenix,Corey Feldman,Jerry O'Connell",361311,"22 August 1986 (USA)
+",USA,English
+218.,In the Name of the Father,8.1,84        ,R,1993,133 min,"
+Biography, Crime, Drama            ",Jim Sheridan,"Daniel Day-Lewis,Pete Postlethwaite,Alison Crosbie,Philip King",155788,"25 February 1994 (USA)
+","Ireland,UK",English
+219.,Dead Poets Society,8.1,79        ,PG,1989,128 min,"
+Comedy, Drama            ",Peter Weir,"Robin Williams,Robert Sean Leonard,Ethan Hawke,Josh Charles",421114,"9 June 1989 (USA)
+",USA,"English,Latin"
+216.,Before Sunrise,8.1,77        ,R,1995,101 min,"
+Drama, Romance            ",Richard Linklater,"Ethan Hawke,Julie Delpy,Andrea Eckert,Hanno Pöschl",269538,"27 January 1995 (USA)
+","USA,Austria,Switzerland","English,German,French"
+215.,La Haine,8.1,,Not Rated,1995,98 min,"
+Crime, Drama            ",Mathieu Kassovitz,"Vincent Cassel,Hubert Koundé,Saïd Taghmaoui,Abdel Ahmed Ghili",148668,"23 February 1996 (USA)
+",France,French
+213.,Trainspotting,8.1,83        ,R,1996,93 min,"
+Drama            ",Danny Boyle,"Ewan McGregor,Ewen Bremner,Jonny Lee Miller,Kevin McKidd",631349,"9 August 1996 (USA)
+",UK,English
+214.,Fargo,8.1,85        ,R,1996,98 min,"
+Crime, Drama, Thriller            ","Joel Coen,Ethan Coen","William H. Macy,Frances McDormand,Steve Buscemi,Peter Stormare",613144,"5 April 1996 (USA)
+","USA,UK",English
+217.,Jurassic Park,8.1,68        ,PG-13,1993,127 min,"
+Action, Adventure, Sci-Fi            ",Steven Spielberg,"Sam Neill,Laura Dern,Jeff Goldblum,Richard Attenborough",861569,"11 June 1993 (USA)
+",USA,"English,Spanish"
+211.,The Big Lebowski,8.1,71        ,R,1998,117 min,"
+Comedy, Crime, Sport            ","Joel Coen,Ethan Coen","Jeff Bridges,John Goodman,Julianne Moore,Steve Buscemi",727871,"6 March 1998 (USA)
+","USA,UK","English,German,Hebrew,Spanish"
+212.,In the Mood for Love,8.1,85        ,PG,2000,98 min,"
+Drama, Romance            ",Kar-Wai Wong,"Tony Chiu-Wai Leung,Maggie Cheung,Ping Lam Siu,Tung Cho 'Joe' Cheung",122887,"9 March 2001 (USA)
+","Hong Kong,China","Cantonese,Shanghainese,French,Spanish"
+207.,Amores Perros,8.1,83        ,R,2000,154 min,"
+Drama, Thriller            ",Alejandro G. Iñárritu,"Emilio Echevarría,Gael García Bernal,Goya Toledo,Álvaro Guerrero",222444,"13 April 2001 (USA)
+",Mexico,Spanish
+221.,Platoon,8.1,92        ,R,1986,120 min,"
+Drama, War            ",Oliver Stone,"Charlie Sheen,Tom Berenger,Willem Dafoe,Keith David",379038,"6 February 1987 (USA)
+","USA,UK","English,Vietnamese"
+210.,The Truman Show,8.1,90        ,PG,1998,103 min,"
+Comedy, Drama, Sci-Fi            ",Peter Weir,"Jim Carrey,Ed Harris,Laura Linney,Noah Emmerich",930944,"5 June 1998 (USA)
+",USA,English
+208.,"Monsters, Inc.",8.1,79        ,G,2001,92 min,"
+Animation, Adventure, Comedy            ","Pete Docter,David Silverman,Lee Unkrich","Billy Crystal,John Goodman,Mary Gibbs,Steve Buscemi",809331,"2 November 2001 (USA)
+",USA,English
+209.,The Sixth Sense,8.1,64        ,PG-13,1999,107 min,"
+Drama, Mystery, Thriller            ",M. Night Shyamalan,"Bruce Willis,Haley Joel Osment,Toni Collette,Olivia Williams",906687,"6 August 1999 (USA)
+",USA,"English,Latin,Spanish"
+205.,Finding Nemo,8.1,90        ,G,2003,100 min,"
+Animation, Adventure, Comedy            ","Andrew Stanton,Lee Unkrich","Albert Brooks,Ellen DeGeneres,Alexander Gould,Willem Dafoe",943129,"30 May 2003 (USA)
+","USA,Australia",English
+204.,Kill Bill: Vol. 1,8.1,69        ,R,2003,111 min,"
+Action, Crime, Thriller            ",Quentin Tarantino,"Uma Thurman,David Carradine,Daryl Hannah,Michael Madsen",993801,"10 October 2003 (USA)
+","USA,Japan","English,Japanese,French"
+203.,Memories of Murder,8.1,82        ,Not Rated,2003,132 min,"
+Action, Crime, Drama            ",Bong Joon Ho,"Song Kang-Ho,Kim Sang-kyung,Roe-ha Kim,Jae-ho Song",136397,"2 May 2003 (South Korea)
+",South Korea,"Korean,English"
+202.,Before Sunset,8.1,90        ,R,2004,80 min,"
+Drama, Romance            ",Richard Linklater,"Ethan Hawke,Julie Delpy,Vernon Dobtcheff,Louise Lemoine Torrès",234138,"30 July 2004 (USA)
+","USA,France","English,French"
+206.,Catch Me If You Can,8.1,75        ,PG-13,2002,141 min,"
+Biography, Crime, Drama            ",Steven Spielberg,"Leonardo DiCaprio,Tom Hanks,Christopher Walken,Martin Sheen",821222,"25 December 2002 (USA)
+","USA,Canada","English,French"
+201.,Hotel Rwanda,8.1,79        ,PG-13,2004,121 min,"
+Biography, Drama, History            ",Terry George,"Don Cheadle,Sophie Okonedo,Joaquin Phoenix,Xolani Mali",332863,"4 February 2005 (USA)
+","UK,South Africa,Italy,USA","English,French,Kinyarwanda"
+182.,Winter Sleep,8.1,88        ,Not Rated,2014,196 min,"
+Drama            ",Nuri Bilge Ceylan,"Haluk Bilginer,Melisa Sözen,Demet Akbag,Ayberk Pekcan",45738,"12 June 2014 (Turkey)
+","Turkey,France,Germany","Turkish,English"
+183.,The Grand Budapest Hotel,8.1,88        ,R,2014,99 min,"
+Adventure, Comedy, Crime            ",Wes Anderson,"Ralph Fiennes,F. Murray Abraham,Mathieu Amalric,Adrien Brody",701315,"28 March 2014 (USA)
+","Germany,USA","English,French,German"
+181.,Wild Tales,8.1,77        ,R,2014,122 min,"
+Comedy, Drama, Thriller            ",Damián Szifron,"Darío Grandinetti,María Marull,Mónica Villa,Diego Starosta",175285,"21 August 2014 (Argentina)
+","Argentina,Spain,France,UK",Spanish
+184.,Gone Girl,8.1,79        ,R,2014,149 min,"
+Drama, Mystery, Thriller            ",David Fincher,"Ben Affleck,Rosamund Pike,Neil Patrick Harris,Tyler Perry",852148,"3 October 2014 (USA)
+",USA,English
+180.,Room,8.1,86        ,R,I) (2015,118 min,"
+Drama, Thriller            ",Lenny Abrahamson,"Brie Larson,Jacob Tremblay,Sean Bridgers,Wendy Crewson",366928,"22 January 2016 (USA)
+","Canada,Ireland,UK,USA",English
+179.,Logan,8.1,77        ,R,2017,137 min,"
+Action, Drama, Sci-Fi            ",James Mangold,"Hugh Jackman,Patrick Stewart,Dafne Keen,Boyd Holbrook",642113,"3 March 2017 (USA)
+",USA,"English,Spanish"
+178.,The Handmaiden,8.1,84        ,Not Rated,2016,145 min,"
+Drama, Romance, Thriller            ",Chan-wook Park,"Kim Min-hee,Jung-woo Ha,Cho Jin-woong,Moon So-Ri",110984,"1 June 2016 (South Korea)
+",South Korea,"Korean,Japanese"
+177.,The Invisible Guest,8.1,,TV-MA,2016,106 min,"
+Crime, Drama, Mystery            ",Oriol Paulo,"Mario Casas,Ana Wagener,Jose Coronado,Bárbara Lennie",136949,"4 October 2017 (India)
+",Spain,Spanish
+174.,The Gold Rush,8.2,,Passed,1925,95 min,"
+Adventure, Comedy, Drama            ",Charles Chaplin,"Charles Chaplin,Mack Swain,Tom Murray,Henry Bergman",100126,"13 July 1925 (Brazil)
+",USA,"None,English"
+176.,Portrait of a Lady on Fire,8.1,95        ,R,2019,122 min,"
+Drama, Romance            ",Céline Sciamma,"Noémie Merlant,Adèle Haenel,Luàna Bajrami,Valeria Golino",59573,"14 February 2020 (USA)
+",France,"French,Italian"
+175.,Sherlock Jr.,8.2,,Passed,1924,45 min,"
+Action, Comedy, Romance            ",Buster Keaton,"Buster Keaton,Kathryn McGuire,Joe Keaton,Erwin Connelly",41397,"11 May 1924 (USA)
+",USA,"None,English"
+172.,The Treasure of the Sierra Madre,8.2,98        ,Passed,1948,126 min,"
+Adventure, Drama, Western            ",John Huston,"Humphrey Bogart,Walter Huston,Tim Holt,Bruce Bennett",113610,"24 January 1948 (USA)
+","USA,Mexico","English,Spanish"
+173.,To Be or Not to Be,8.2,86        ,Passed,1942,99 min,"
+Comedy, War            ",Ernst Lubitsch,"Carole Lombard,Jack Benny,Robert Stack,Felix Bressart",29300,"6 March 1942 (USA)
+",USA,"English,German"
+171.,All About Eve,8.2,98        ,Passed,1950,138 min,"
+Drama            ",Joseph L. Mankiewicz,"Bette Davis,Anne Baxter,George Sanders,Celeste Holm",119887,"27 October 1950 (USA)
+",USA,"English,French"
+170.,Rashomon,8.2,98        ,Not Rated,1950,88 min,"
+Crime, Drama, Mystery            ",Akira Kurosawa,"Toshirô Mifune,Machiko Kyô,Masayuki Mori,Takashi Shimura",151425,"26 December 1951 (USA)
+",Japan,Japanese
+169.,Tokyo Story,8.2,,Not Rated,1953,136 min,"
+Drama            ",Yasujirô Ozu,"Chishû Ryû,Chieko Higashiyama,Sô Yamamura,Setsuko Hara",52501,"13 March 1972 (USA)
+",Japan,"Japanese,English"
+168.,Dial M for Murder,8.2,75        ,PG,1954,105 min,"
+Crime, Thriller            ",Alfred Hitchcock,"Ray Milland,Grace Kelly,Robert Cummings,John Williams",157073,"29 May 1954 (USA)
+",USA,English
+167.,Rififi,8.2,97        ,Not Rated,1955,118 min,"
+Crime, Drama, Thriller            ",Jules Dassin,"Jean Servais,Carl Möhner,Robert Manuel,Janine Darcey",28258,"5 June 1956 (USA)
+",France,"French,Italian,English"
+166.,The Seventh Seal,8.2,88        ,Not Rated,1957,96 min,"
+Drama, Fantasy, History            ",Ingmar Bergman,"Max von Sydow,Gunnar Björnstrand,Bengt Ekerot,Nils Poppe",163323,"13 October 1958 (USA)
+",Sweden,"Swedish,Latin"
+163.,Judgment at Nuremberg,8.2,60        ,Approved,1961,179 min,"
+Drama, War            ",Stanley Kramer,"Spencer Tracy,Burt Lancaster,Richard Widmark,Marlene Dietrich",68963,"18 December 1961 (Sweden)
+",USA,"English,German"
+162.,Yojimbo,8.2,,Not Rated,1961,110 min,"
+Action, Drama, Thriller            ",Akira Kurosawa,"Toshirô Mifune,Eijirô Tôno,Tatsuya Nakadai,Yôko Tsukasa",110252,"13 September 1961 (USA)
+",Japan,Japanese
+164.,Some Like It Hot,8.2,98        ,Passed,1959,121 min,"
+Comedy, Music, Romance            ",Billy Wilder,"Marilyn Monroe,Tony Curtis,Jack Lemmon,George Raft",242192,"19 March 1959 (USA)
+",USA,English
+160.,The Great Escape,8.2,86        ,Approved,1963,172 min,"
+Adventure, Drama, History            ",John Sturges,"Steve McQueen,James Garner,Richard Attenborough,Charles Bronson",223316,"4 July 1963 (USA)
+",USA,"English,German,French,Russian,Spanish"
+161.,To Kill a Mockingbird,8.2,88        ,Approved,1962,129 min,"
+Crime, Drama            ",Robert Mulligan,"Gregory Peck,John Megna,Frank Overton,Rosemary Murphy",292428,"16 March 1963 (USA)
+",USA,English
+158.,Autumn Sonata,8.2,,PG,1978,99 min,"
+Drama, Music            ",Ingmar Bergman,"Ingrid Bergman,Liv Ullmann,Lena Nyman,Halvar Björk",25988,"18 October 1978 (USA)
+","Sweden,France,West Germany,UK,Norway","Swedish,English"
+159.,Monty Python and the Holy Grail,8.2,91        ,PG,1975,91 min,"
+Adventure, Comedy, Fantasy            ","Terry Gilliam,Terry Jones","Graham Chapman,John Cleese,Eric Idle,Terry Gilliam",498383,"6 December 1979 (India)
+",UK,"English,French,Latin"
+165.,Wild Strawberries,8.2,88        ,Not Rated,1957,91 min,"
+Drama, Romance            ",Ingmar Bergman,"Victor Sjöström,Bibi Andersson,Ingrid Thulin,Gunnar Björnstrand",95330,"22 June 1959 (USA)
+",Sweden,"Swedish,Latin"
+156.,Raging Bull,8.2,89        ,R,1980,129 min,"
+Biography, Drama, Sport            ",Martin Scorsese,"Robert De Niro,Cathy Moriarty,Joe Pesci,Frank Vincent",319714,"19 December 1980 (USA)
+",USA,English
+154.,Die Hard,8.2,72        ,R,1988,132 min,"
+Action, Thriller            ",John McTiernan,"Bruce Willis,Alan Rickman,Bonnie Bedelia,Reginald VelJohnson",785044,"20 July 1988 (USA)
+",USA,"English,German,Italian,Japanese"
+155.,Ran,8.2,96        ,R,1985,162 min,"
+Action, Drama, War            ",Akira Kurosawa,"Tatsuya Nakadai,Akira Terao,Jinpachi Nezu,Daisuke Ryû",111614,"1 June 1985 (Japan)
+","Japan,France",Japanese
+152.,Time of the Gypsies,8.2,,R,1988,142 min,"
+Comedy, Crime, Drama            ",Emir Kusturica,"Davor Dujmovic,Bora Todorovic,Ljubica Adzovic,Husnija Hasimovic",25584,"9 February 1990 (USA)
+","UK,Italy,Yugoslavia","Romany,Serbo-Croatian,Italian,English,German"
+151.,Indiana Jones and the Last Crusade,8.2,65        ,PG-13,1989,127 min,"
+Action, Adventure            ",Steven Spielberg,"Harrison Ford,Sean Connery,Alison Doody,Denholm Elliott",688170,"24 May 1989 (USA)
+",USA,"English,German,Greek,Arabic"
+153.,My Neighbor Totoro,8.2,86        ,G,1988,86 min,"
+Animation, Family, Fantasy            ",Hayao Miyazaki,"Hitoshi Takagi,Noriko Hidaka,Chika Sakamoto,Shigesato Itoi",287515,"13 July 1990 (USA)
+",Japan,Japanese
+157.,Stalker,8.2,,Not Rated,1979,162 min,"
+Drama, Sci-Fi            ",Andrei Tarkovsky,"Alisa Freyndlikh,Aleksandr Kaydanovskiy,Anatoliy Solonitsyn,Nikolay Grinko",115653,"17 April 1980 (Netherlands)
+",Soviet Union,Russian
+131.,Gangs of Wasseypur,8.2,89        ,R,2012,321 min,"
+Action, Crime, Drama            ",Anurag Kashyap,"Manoj Bajpayee,Richa Chadha,Nawazuddin Siddiqui,Tigmanshu Dhulia",81384,"22 June 2012 (India)
+",India,Hindi
+132.,The Secret in Their Eyes,8.2,80        ,R,2009,129 min,"
+Drama, Mystery, Romance            ",Juan José Campanella,"Ricardo Darín,Soledad Villamil,Pablo Rago,Carla Quevedo",191665,"21 May 2010 (USA)
+","Argentina,Spain",Spanish
+129.,Tangerines,8.2,73        ,Not Rated,2013,87 min,"
+Drama, War            ",Zaza Urushadze,"Lembit Ulfsak,Elmo Nüganen,Giorgi Nakashidze,Misha Meskhi",39595,"17 April 2015 (USA)
+","Estonia,Georgia","Estonian,Russian,Georgian"
+130.,Soul,8.2,85        ,PG,2020,100 min,"
+Animation, Adventure, Comedy            ","Pete Docter,Kemp Powers","Jamie Foxx,Tina Fey,Graham Norton,Rachel House",46950,"25 December 2020 (USA)
+",USA,English
+127.,Klaus,8.2,65        ,PG,2019,96 min,"
+Animation, Adventure, Comedy            ","Sergio Pablos,Carlos Martínez López","Jason Schwartzman,J.K. Simmons,Rashida Jones,Will Sasso",95870,"15 November 2019 (USA)
+","Spain,UK","English,Saami"
+128.,Drishyam,8.2,,Not Rated,2015,163 min,"
+Crime, Drama, Mystery            ",Nishikant Kamat,"Ajay Devgn,Shriya Saran,Tabu,Rajat Kapoor",69203,"31 July 2015 (USA)
+",India,"Hindi,English"
+126.,"Three Billboards Outside Ebbing, Missouri",8.2,88        ,R,2017,115 min,"
+Comedy, Crime, Drama            ",Martin McDonagh,"Frances McDormand,Woody Harrelson,Sam Rockwell,Caleb Landry Jones",425566,"1 December 2017 (USA)
+","UK,USA",English
+124.,The Kid,8.3,,Passed,1921,68 min,"
+Comedy, Drama, Family            ",Charles Chaplin,"Charles Chaplin,Edna Purviance,Jackie Coogan,Carl Miller",112175,"6 February 1921 (USA)
+",USA,"None,English"
+133.,Warrior,8.2,71        ,PG-13,2011,140 min,"
+Action, Drama, Sport            ",Gavin O'Connor,"Tom Hardy,Nick Nolte,Joel Edgerton,Jennifer Morrison",433561,"9 September 2011 (USA)
+",USA,"English,Spanish"
+122.,M,8.3,,Passed,1931,99 min,"
+Crime, Mystery, Thriller            ",Fritz Lang,"Peter Lorre,Ellen Widmann,Inge Landgut,Otto Wernicke",142401,"31 August 1931 (Sweden)
+",Germany,German
+123.,Metropolis,8.3,98        ,Not Rated,1927,153 min,"
+Drama, Sci-Fi            ",Fritz Lang,"Brigitte Helm,Alfred Abel,Gustav Fröhlich,Rudolf Klein-Rogge",158999,"13 March 1927 (USA)
+",Germany,"German,None"
+125.,Green Book,8.2,69        ,PG-13,2018,130 min,"
+Biography, Comedy, Drama            ",Peter Farrelly,"Viggo Mortensen,Mahershala Ali,Linda Cardellini,Sebastian Maniscalco",365753,"16 November 2018 (USA)
+","USA,China","English,Italian,Russian,German"
+120.,Double Indemnity,8.3,95        ,Passed,1944,107 min,"
+Crime, Drama, Film-Noir            ",Billy Wilder,"Fred MacMurray,Barbara Stanwyck,Edward G. Robinson,Byron Barr",142551,"6 July 1944 (USA)
+",USA,English
+121.,Citizen Kane,8.3,100        ,PG,1941,119 min,"
+Drama, Mystery            ",Orson Welles,"Orson Welles,Joseph Cotten,Dorothy Comingore,Agnes Moorehead",399805,"5 September 1941 (USA)
+",USA,"English,Italian"
+119.,Bicycle Thieves,8.3,,Not Rated,1948,89 min,"
+Drama            ",Vittorio De Sica,"Lamberto Maggiorani,Enzo Staiola,Lianella Carell,Elena Altieri",145151,"13 December 1949 (USA)
+",Italy,"German,Italian,English"
+118.,Ikiru,8.3,,Not Rated,1952,143 min,"
+Drama            ",Akira Kurosawa,"Takashi Shimura,Nobuo Kaneko,Shin'ichi Himori,Haruo Tanaka",67714,"25 March 1956 (USA)
+",Japan,Japanese
+110.,A Clockwork Orange,8.3,77        ,R,1971,136 min,"
+Crime, Drama, Sci-Fi            ",Stanley Kubrick,"Malcolm McDowell,Patrick Magee,Michael Bates,Warren Clarke",753362,"2 February 1972 (USA)
+","UK,USA",English
+116.,Vertigo,8.3,100        ,PG,1958,128 min,"
+Mystery, Romance, Thriller            ",Alfred Hitchcock,"James Stewart,Kim Novak,Barbara Bel Geddes,Tom Helmore",361665,"30 October 2014 (India)
+",USA,English
+112.,For a Few Dollars More,8.3,74        ,R,1965,132 min,"
+Western            ",Sergio Leone,"Clint Eastwood,Lee Van Cleef,Gian Maria Volontè,Mara Krupp",231097,"10 May 1967 (USA)
+","Italy,Spain,West Germany","Italian,English"
+115.,North by Northwest,8.3,98        ,Approved,1959,136 min,"
+Adventure, Mystery, Thriller            ",Alfred Hitchcock,"Cary Grant,Eva Marie Saint,James Mason,Jessie Royce Landis",297142,"18 December 1959 (USA)
+",USA,"English,French"
+117.,Singin' in the Rain,8.3,99        ,G,1952,103 min,"
+Comedy, Musical, Romance            ","Stanley Donen,Gene Kelly","Gene Kelly,Donald O'Connor,Debbie Reynolds,Jean Hagen",217283,"11 April 1952 (USA)
+",USA,English
+109.,The Sting,8.3,83        ,PG,1973,129 min,"
+Comedy, Crime, Drama            ",George Roy Hill,"Paul Newman,Robert Redford,Robert Shaw,Charles Durning",240100,"25 December 1973 (USA)
+",USA,English
+111.,2001: A Space Odyssey,8.3,84        ,G,1968,149 min,"
+Adventure, Sci-Fi            ",Stanley Kubrick,"Keir Dullea,Gary Lockwood,William Sylvester,Daniel Richter",599453,"4 October 2017 (India)
+","UK,USA","English,Russian"
+108.,Taxi Driver,8.3,94        ,R,1976,114 min,"
+Crime, Drama            ",Martin Scorsese,"Robert De Niro,Jodie Foster,Cybill Shepherd,Albert Brooks",718688,"9 February 1976 (USA)
+",USA,"English,Spanish"
+107.,Das Boot,8.3,86        ,R,1981,149 min,"
+Adventure, Drama, Thriller            ",Wolfgang Petersen,"Jürgen Prochnow,Herbert Grönemeyer,Klaus Wennemann,Hubertus Bengsch",230407,"10 February 1982 (USA)
+",West Germany,German
+106.,Star Wars: Episode VI - Return of the Jedi,8.3,58        ,PG,1983,131 min,"
+Action, Adventure, Fantasy            ",Richard Marquand,"Mark Hamill,Harrison Ford,Carrie Fisher,Billy Dee Williams",943535,"25 May 1983 (USA)
+",USA,English
+104.,Amadeus,8.3,88        ,R,1984,160 min,"
+Biography, Drama, History            ",Milos Forman,"F. Murray Abraham,Tom Hulce,Elizabeth Berridge,Roy Dotrice",366821,"19 September 1984 (USA)
+","USA,France,Czechoslovakia,Italy","English,Italian,Latin,German"
+102.,Come and See,8.3,,Not Rated,1985,142 min,"
+Drama, Thriller, War            ",Elem Klimov,"Aleksey Kravchenko,Olga Mironova,Liubomiras Laucevicius,Vladas Bagdonas",57838,"17 October 1985 (Hungary)
+",Soviet Union,"Russian,Belarusian,German"
+103.,Aliens,8.3,84        ,R,1986,137 min,"
+Action, Adventure, Sci-Fi            ",James Cameron,"Sigourney Weaver,Michael Biehn,Carrie Henn,Paul Reiser",649248,"18 July 1986 (USA)
+",USA,English
+101.,Full Metal Jacket,8.3,76        ,R,1987,116 min,"
+Drama, War            ",Stanley Kubrick,"Matthew Modine,R. Lee Ermey,Vincent D'Onofrio,Adam Baldwin",670766,"10 July 1987 (USA)
+","UK,USA","English,Vietnamese"
+105.,Scarface,8.3,65        ,R,1983,170 min,"
+Crime, Drama            ",Brian De Palma,"Al Pacino,Michelle Pfeiffer,Steven Bauer,Mary Elizabeth Mastrantonio",735332,"9 December 1983 (USA)
+",USA,"English,Spanish"
+74.,Alien,8.4,89        ,R,1979,117 min,"
+Horror, Sci-Fi            ",Ridley Scott,"Sigourney Weaver,Tom Skerritt,John Hurt,Veronica Cartwright",782701,"22 June 1979 (USA)
+","UK,USA",English
+72.,The Shining,8.4,66        ,R,1980,146 min,"
+Drama, Horror            ",Stanley Kubrick,"Jack Nicholson,Shelley Duvall,Danny Lloyd,Scatman Crothers",891344,"13 June 1980 (USA)
+","UK,USA",English
+73.,Apocalypse Now,8.4,94        ,R,1979,147 min,"
+Drama, Mystery, War            ",Francis Ford Coppola,"Martin Sheen,Marlon Brando,Robert Duvall,Frederic Forrest",602304,"15 August 1979 (USA)
+",USA,"English,French,Vietnamese"
+70.,Once Upon a Time in America,8.4,,R,1984,229 min,"
+Crime, Drama            ",Sergio Leone,"Robert De Niro,James Woods,Elizabeth McGovern,Treat Williams",308734,"1 June 1984 (USA)
+","USA,Italy","English,Italian,French,Yiddish,Hebrew"
+68.,Memento,8.4,80        ,R,2000,113 min,"
+Mystery, Thriller            ",Christopher Nolan,"Guy Pearce,Carrie-Anne Moss,Joe Pantoliano,Mark Boone Junior",1118295,"25 May 2001 (USA)
+",USA,English
+69.,Princess Mononoke,8.4,76        ,PG-13,1997,134 min,"
+Animation, Adventure, Fantasy            ",Hayao Miyazaki,"Yôji Matsuda,Yuriko Ishida,Yûko Tanaka,Billy Crudup",339654,"19 December 1997 (USA)
+",Japan,Japanese
+71.,Raiders of the Lost Ark,8.4,85        ,PG,1981,115 min,"
+Action, Adventure            ",Steven Spielberg,"Harrison Ford,Karen Allen,Paul Freeman,John Rhys-Davies",878768,"12 June 1981 (USA)
+",USA,"English,German,Hebrew,Spanish,Arabic,Nepali"
+67.,Oldboy,8.4,77        ,R,2003,101 min,"
+Action, Drama, Mystery            ",Chan-wook Park,"Choi Min-sik,Yoo Ji-Tae,Kang Hye-jeong,Kim Byeong-Ok",511323,"4 October 2017 (India)
+",South Korea,Korean
+65.,WALL·E,8.4,95        ,G,2008,98 min,"
+Animation, Adventure, Family            ",Andrew Stanton,"Ben Burtt,Elissa Knight,Jeff Garlin,Fred Willard",992000,"27 June 2008 (USA)
+",USA,English
+63.,3 Idiots,8.4,67        ,PG-13,2009,170 min,"
+Comedy, Drama            ",Rajkumar Hirani,"Aamir Khan,Madhavan,Mona Singh,Sharman Joshi",341053,"25 December 2009 (India)
+",India,"Hindi,English"
+75.,Anand,8.4,,Not Rated,1971,122 min,"
+Drama, Musical            ",Hrishikesh Mukherjee,"Rajesh Khanna,Amitabh Bachchan,Sumita Sanyal,Ramesh Deo",29720,"12 March 1971 (India)
+",India,Hindi
+64.,Taare Zameen Par,8.4,,PG,2007,165 min,"
+Drama, Family            ","Aamir Khan,Amole Gupte","Darsheel Safary,Aamir Khan,Tisca Chopra,Vipin Sharma",166970,"21 December 2007 (India)
+",India,Hindi
+61.,Django Unchained,8.4,81        ,R,2012,165 min,"
+Drama, Western            ",Quentin Tarantino,"Jamie Foxx,Christoph Waltz,Leonardo DiCaprio,Kerry Washington",1345695,"25 December 2012 (USA)
+",USA,"English,German,French,Italian"
+66.,The Lives of Others,8.4,89        ,R,2006,137 min,"
+Drama, Mystery, Thriller            ",Florian Henckel von Donnersmarck,"Ulrich Mühe,Martina Gedeck,Sebastian Koch,Ulrich Tukur",356187,"30 March 2007 (USA)
+","Germany,France",German
+60.,Coco,8.4,81        ,PG,I) (2017,105 min,"
+Animation, Adventure, Family            ","Lee Unkrich,Adrian Molina","Anthony Gonzalez,Gael García Bernal,Benjamin Bratt,Alanna Ubach",372564,"22 November 2017 (USA)
+",USA,"English,Spanish"
+62.,The Dark Knight Rises,8.4,78        ,PG-13,2012,164 min,"
+Action, Adventure            ",Christopher Nolan,"Christian Bale,Tom Hardy,Anne Hathaway,Gary Oldman",1505998,"20 July 2012 (USA)
+","UK,USA","English,Arabic"
+56.,Dangal,8.4,,Not Rated,2016,161 min,"
+Action, Biography, Drama            ",Nitesh Tiwari,"Aamir Khan,Sakshi Tanwar,Fatima Sana Shaikh,Sanya Malhotra",154123,"21 December 2016 (USA)
+",India,"Hindi,English"
+55.,Your Name.,8.4,79        ,PG,2016,106 min,"
+Animation, Drama, Fantasy            ",Makoto Shinkai,"Ryûnosuke Kamiki,Mone Kamishiraishi,Ryô Narita,Aoi Yûki",190209,"7 April 2017 (USA)
+",Japan,Japanese
+59.,Avengers: Infinity War,8.4,68        ,PG-13,2018,149 min,"
+Action, Adventure, Sci-Fi            ","Anthony Russo,Joe Russo","Robert Downey Jr.,Chris Hemsworth,Mark Ruffalo,Chris Evans",822409,"27 April 2018 (USA)
+",USA,English
+57.,Spider-Man: Into the Spider-Verse,8.4,87        ,PG,2018,117 min,"
+Animation, Action, Adventure            ","Bob Persichetti,Peter Ramsey,Rodney Rothman","Shameik Moore,Jake Johnson,Hailee Steinfeld,Mahershala Ali",366088,"14 December 2018 (USA)
+",USA,"English,Spanish"
+52.,Modern Times,8.5,96        ,G,1936,87 min,"
+Comedy, Drama, Family            ",Charles Chaplin,"Charles Chaplin,Paulette Goddard,Henry Bergman,Tiny Sandford",216051,"25 February 1936 (USA)
+",USA,English
+53.,City Lights,8.5,99        ,G,1931,87 min,"
+Comedy, Drama, Romance            ",Charles Chaplin,"Charles Chaplin,Virginia Cherrill,Florence Lee,Harry Myers",166452,"7 March 1931 (USA)
+",USA,"None,English"
+54.,Capernaum,8.4,75        ,R,2018,126 min,"
+Drama            ",Nadine Labaki,"Zain Al Rafeea,Yordanos Shiferaw,Boluwatife Treasure Bankole,Kawsar Al Haddad",60139,"21 June 2019 (India)
+","Lebanon,USA,France,Cyprus,Qatar,UK","Arabic,Amharic"
+58.,Avengers: Endgame,8.4,78        ,PG-13,2019,181 min,"
+Action, Adventure, Drama            ","Anthony Russo,Joe Russo","Robert Downey Jr.,Chris Evans,Mark Ruffalo,Chris Hemsworth",791993,"26 April 2019 (USA)
+",USA,"English,Japanese,Xhosa,German"
+51.,Casablanca,8.5,100        ,PG,1942,102 min,"
+Drama, Romance, War            ",Michael Curtiz,"Humphrey Bogart,Ingrid Bergman,Paul Henreid,Claude Rains",518606,"23 January 1943 (USA)
+",USA,"English,French,German,Italian"
+36.,The Intouchables,8.5,57        ,R,2011,112 min,"
+Biography, Comedy, Drama            ","Olivier Nakache,Éric Toledano","François Cluzet,Omar Sy,Anne Le Ny,Audrey Fleurot",752094,"13 July 2012 (India)
+",France,"French,English"
+35.,Whiplash,8.5,88        ,R,2014,106 min,"
+Drama, Music            ",Damien Chazelle,"Miles Teller,J.K. Simmons,Melissa Benoist,Paul Reiser",709484,"20 February 2015 (India)
+",USA,English
+34.,Vikram Vedha,8.5,,Not Rated,2017,147 min,"
+Action, Crime, Drama            ","Gayatri,Pushkar","Madhavan,Vijay Sethupathi,Shraddha Srinath,Kathir",27278,"21 July 2017 (USA)
+",India,Tamil
+32.,It's a Wonderful Life,8.6,89        ,PG,1946,130 min,"
+Drama, Family, Fantasy            ",Frank Capra,"James Stewart,Donna Reed,Lionel Barrymore,Thomas Mitchell",400417,"7 January 1947 (USA)
+",USA,"English,French"
+30.,Hara-Kiri,8.6,85        ,Not Rated,1962,133 min,"
+Action, Drama, Mystery            ",Masaki Kobayashi,"Tatsuya Nakadai,Akira Ishihama,Shima Iwashita,Tetsurô Tanba",40864,"4 August 1964 (USA)
+",Japan,Japanese
+33.,Joker,8.5,59        ,R,2019,122 min,"
+Crime, Drama, Thriller            ",Todd Phillips,"Joaquin Phoenix,Robert De Niro,Zazie Beetz,Frances Conroy",916751,"4 October 2019 (USA)
+","USA,Canada",English
+31.,Seven Samurai,8.6,98        ,Not Rated,1954,207 min,"
+Action, Adventure, Drama            ",Akira Kurosawa,"Toshirô Mifune,Takashi Shimura,Keiko Tsushima,Yukiko Shimazaki",313655,"19 November 1956 (USA)
+",Japan,Japanese
+28.,The Silence of the Lambs,8.6,85        ,R,1991,118 min,"
+Crime, Drama, Thriller            ",Jonathan Demme,"Jodie Foster,Anthony Hopkins,Lawrence A. Bonney,Kasi Lemmons",1260446,"14 February 1991 (USA)
+",USA,"English,Latin"
+29.,Star Wars: Episode IV - A New Hope,8.6,90        ,PG,1977,121 min,"
+Action, Adventure, Fantasy            ",George Lucas,"Mark Hamill,Harrison Ford,Carrie Fisher,Alec Guinness",1222859,"25 May 1977 (USA)
+",USA,English
+27.,Se7en,8.6,65        ,R,1995,127 min,"
+Crime, Drama, Mystery            ",David Fincher,"Morgan Freeman,Brad Pitt,Kevin Spacey,Andrew Kevin Walker",1432451,"22 September 1995 (USA)
+",USA,English
+25.,The Green Mile,8.6,61        ,R,1999,189 min,"
+Crime, Drama, Fantasy            ",Frank Darabont,"Tom Hanks,Michael Clarke Duncan,David Morse,Bonnie Hunt",1137466,"10 December 1999 (USA)
+",USA,"English,French"
+26.,Life Is Beautiful,8.6,59        ,PG-13,1997,116 min,"
+Comedy, Drama, Romance            ",Roberto Benigni,"Roberto Benigni,Nicoletta Braschi,Giorgio Cantarini,Giustino Durano",618461,"18 September 2000 (India)
+",Italy,"Italian,German,English"
+24.,Saving Private Ryan,8.6,91        ,R,1998,169 min,"
+Drama, War            ",Steven Spielberg,"Tom Hanks,Matt Damon,Tom Sizemore,Edward Burns",1226255,"24 July 1998 (USA)
+",USA,"English,French,German,Czech"
+23.,Spirited Away,8.6,96        ,PG,2001,125 min,"
+Animation, Adventure, Family            ",Hayao Miyazaki,"Daveigh Chase,Suzanne Pleshette,Miyu Irino,Rumi Hiiragi",644016,"28 March 2003 (USA)
+",Japan,Japanese
+22.,City of God,8.6,79        ,R,2002,130 min,"
+Crime, Drama            ","Fernando Meirelles,Kátia Lund","Alexandre Rodrigues,Leandro Firmino,Matheus Nachtergaele,Phellipe Haagensen",695467,"13 February 2004 (USA)
+","Brazil,France,Germany",Portuguese
+16.,Goodfellas,8.7,90        ,R,1990,146 min,"
+Biography, Crime, Drama            ",Martin Scorsese,"Robert De Niro,Ray Liotta,Joe Pesci,Lorraine Bracco",1011878,"21 September 1990 (USA)
+",USA,"English,Italian"
+15.,The Matrix,8.7,73        ,R,1999,136 min,"
+Action, Sci-Fi            ","Lana Wachowski,Lilly Wachowski","Keanu Reeves,Laurence Fishburne,Carrie-Anne Moss,Hugo Weaving",1663049,"31 March 1999 (USA)
+",USA,English
+13.,"The Good, the Bad and the Ugly",8.8,90        ,R,1966,178 min,"
+Western            ",Sergio Leone,"Clint Eastwood,Eli Wallach,Lee Van Cleef,Aldo Giuffrè",683840,"29 December 1967 (USA)
+","Italy,Spain,West Germany",Italian
+14.,The Lord of the Rings: The Two Towers,8.7,87        ,PG-13,2002,179 min,"
+Action, Adventure, Drama            ",Peter Jackson,"Elijah Wood,Ian McKellen,Viggo Mortensen,Orlando Bloom",1474643,"18 December 2002 (USA)
+","New Zealand,USA","English,Sindarin,Old English"
+12.,Forrest Gump,8.8,82        ,PG-13,1994,142 min,"
+Drama, Romance            ",Robert Zemeckis,"Tom Hanks,Robin Wright,Gary Sinise,Sally Field",1792725,"6 July 1994 (USA)
+",USA,English

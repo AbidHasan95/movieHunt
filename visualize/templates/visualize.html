@@ -1,0 +1,72 @@
+{% extends "base.html" %}
+{% block head %}
+<script src="https://cdn.plot.ly/plotly-latest.min.js" charset="utf-8"></script>
+{% load static %}
+<script>
+    Plotly.d3.csv("{% static 'visualize/imdb_pca_3d.csv' %}", function (err, rows) {
+        function unpack(rows, key) {
+            return rows.map(function (row) { return row[key]; });
+        }
+
+        var data = [{
+            x: unpack(rows, 'component1'), y: unpack(rows, 'component2'), z: unpack(rows, 'component3'),
+            text: unpack(rows, 'movie'),
+            mode: 'markers',
+            hovertemplate: '%{text}<extra></extra>',
+            marker: {
+                color: 'rgba(243, 73, 73, 50)',
+                size: 2,
+                opacity: 0.4
+            },
+            type: 'scatter3d',
+        }];
+
+        // var data = [trace1];
+        var layout = {
+            title: 'Movies as data points in an interractive 3-dimensional space',
+            paper_bgcolor:"#FFF1",
+            height : 600,
+            hoverlabel: { bgcolor: "#222" },
+            scene: {
+                aspectmode: 'auto',
+                xaxis: {
+                    title: '',
+                    zeroline: true,
+                    showline: false,
+                    showspikes: false,
+                    showgrid: false,
+                    tickvals: [],
+                },
+                yaxis: {
+                    title: '',
+                    zeroline: true,
+                    showline: false,
+                    showspikes: false,
+                    showgrid: false,
+                    tickvals: [],
+                },
+                zaxis: {
+                    title: '',
+                    zeroline: true,
+                    showline: false,
+                    showspikes: false,
+                    showgrid: false,
+                    tickvals: [],
+                }
+            },
+            margin: {
+            //     l: 0,
+            //     r: 0,
+                b: 10,
+            //     t: 0
+            },  
+        };
+        Plotly.newPlot('mydiv1', data, layout, { scrollZoom: true, displayModeBar: false, responsive: true });
+    });
+    // https://codepen.io/etpinard/pen/mBVVyE?editors=0010
+</script>
+{% endblock %}
+{% block content %}
+
+<div id="mydiv1" style="max-width: 80% ;margin: auto;"></div>
+{% endblock %}

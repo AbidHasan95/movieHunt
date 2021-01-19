@@ -1,0 +1,6 @@
+.vscode/
+data/
+tmp/
+migrations/
+__pycache__/
+

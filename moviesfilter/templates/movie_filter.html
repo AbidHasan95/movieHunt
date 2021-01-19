@@ -1,0 +1,153 @@
+{% extends "base.html" %}
+{% block head %}
+<title>Movie Filter</title>
+<script src="https://unpkg.com/multiple-select@1.5.2/dist/multiple-select.min.js"></script>
+{% load static %}
+<script src="{% static 'moviesfilter/pagination.min.js' %}"></script>
+<script src="https://cdn.datatables.net/1.10.22/js/jquery.dataTables.min.js"></script>
+
+<!-- <script src="https://cdn.datatables.net/1.10.22/js/dataTables.bootstrap5.min.js"></script> -->
+<link rel="stylesheet" href="https://cdn.datatables.net/1.10.22/css/jquery.dataTables.min.css">
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+<!-- <script src="https://code.jquery.com/jquery-1.12.4.js"></script> -->
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+
+<!-- <link rel="stylesheet" href="https://cdn.datatables.net/1.10.22/css/dataTables.bootstrap5.min.css"> -->
+<script>
+    $(document).ready(function () {
+        $('#tablepaginate').DataTable({
+            'info':false,
+            'hover':true,
+        });
+
+        $('#year_slider').slider({
+            range: true,
+            min: 1930,
+            max: 2021,
+            values: [1930,2020],
+            slide: function (event, ui) {
+                $('#yearinput').val(ui.values); //form Input
+                $('#yeartext').text("Year: " + ui.values[0] + " - " + ui.values[1]); //Visible text
+            }
+        });
+        $("#yeartext").text( "Year: " + $("#year_slider").slider("values",0) + " - " + $("#year_slider").slider("values",1));
+        // $("#chk").prop('checked',true)
+    });
+
+</script>
+<style>
+    /* #custom-handle {
+        border-radius: 0px;
+    } */
+    .ui-slider-handle {
+        width: 50px;
+    }
+</style>
+{% endblock %}
+{% block content %}
+<form method="POST">
+    {% csrf_token %}
+    <div class="container col-sm-6 flex-d flex-column align-items-center justify-content-center">
+        <div class="p2">
+            <div class="d-flex flex-row justify-content-between">
+                <div class="p2">
+                    <!-- <label for="movie_rating">Choose ImDb rating</label> -->
+                    <select multiple="multiple" class="multiple-select" name="movie_rating" id="movie_ratings"
+                        placeholder="Rating">
+                        <option value="10">10</option>
+                        <option value="9">9</option>
+                        <option value="8">8</option>
+                        <option value="7">7</option>
+                    </select>
+                </div>
+
+                <div class="p2">
+                    <!-- <label for="movie_genre">Choose genre</label> -->
+                    <select class="multiple-select" name="genre" id="movie_genre" placeholder="Genres" multiple>
+                        {% for item in filter_category.genre %}
+                        <option value="{{ item }}">{{ item }}</option>
+                        {% endfor%}
+                    </select>
+                </div>
+                <div class="p2">
+                    <!-- <label for="movie_certification">Choose certification</label> -->
+                    <select class="multiple-select" name="movie_certification" placeholder="Certification"
+                        id="movie_certification" multiple>
+                        {% for item in filter_category.certification %}
+                        <option value="{{ item }}">{{ item }}</option>
+                        {% endfor%}
+                    </select>
+                </div>
+                <div class="p2">
+                    <!-- <label for="movie_language">Choose language</label> -->
+                    <select class="multiple-select" name="language" placeholder="Language" id="movie_language"
+                        multiple>
+                        {% for item in filter_category.language %}
+                        <option value="{{ item }}">{{ item }}</option>
+                        {% endfor%}
+                    </select>
+                </div>
+            </div>
+        </div>
+        <br>
+        <div class="p2">
+            <div class="d-flex flex-row justify-content-around">
+                <div class="p2 checkbox">
+                    <label class="user-select-none" for="chk">Year range</label>
+                    <input type="checkbox" class="checkbox" id="chk" checked>
+                </div>
+                <div class="p2 col-sm-6">
+                    <div id="year_slider">
+                        <div id="custom-handle" class="ui-handle-slider"></div>
+                    </div>
+                    <input type="text" name="yearrange" id="yearinput" style="display: none;">
+                    <p id="yeartext" style="text-align: center;"></p>
+                </div>
+
+            </div>
+        </div>
+        <div class="p2 container">
+            <div class="text-center">
+                <button class="btn btn-dark" type="submit" style="width: 30%;">Filter</button>
+            </div>
+        </div>
+    </div>
+</form>
+<script>
+    $("#chk").click(function () {
+        if ($("#chk").prop('checked')) {
+            $("#year_slider").slider("destroy");
+            $('#year_slider').slider({
+                range: true,
+                min: 1930,
+                max: 2021,
+                values: [1930, 2020],
+                slide: function (event, ui) {
+                    $('#yearinput').val(ui.values); //form Input
+                    $('#yeartext').text("Year: " + ui.values[0] + " - " + ui.values[1]); //Visible text
+                }
+            });
+            $("#yeartext").text( "Year: " + $("#year_slider").slider("values",0) + " - " +$("#year_slider").slider("values",1));
+        }
+        else {
+            $("#year_slider").slider("destroy");
+            $('#year_slider').slider({
+                range: false,
+                min: 1930,
+                max: 2021,
+                values: [2020],
+                slide: function (event, ui) {
+                    $('#yearinput').val(ui.values[0]); //form Input
+                    $('#yeartext').text("Year: " + ui.values[0]); //Visible text
+                }
+            });
+            $("#yeartext").text( "Year: " + $("#year_slider").slider("values",0));
+        }
+
+    });
+</script>
+{% endblock %}
+{% block movies_list %}
+{% include "movies_list.html" %}
+{% endblock %}

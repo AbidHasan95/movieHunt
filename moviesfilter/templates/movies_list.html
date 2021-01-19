@@ -1,0 +1,35 @@
+<div style="padding: 0px 30px;">
+<table id="tablepaginate" class="hover stripe order-column">
+    <thead>
+        <tr>
+            <th>Ranking</th>
+            <th>Movie name</th>
+            <th>ImDb Rating</th>
+            <th>Release Date</th>
+            <th>Genre</th>
+            <th>Certification</th>
+            <th>Language</th>
+            <th>Country</th>
+        </tr>
+    </thead>
+    <tbody>
+    {% for movie_item in movieitems %}
+        <tr>
+            <td>{{ movie_item.ranking }}</td>
+            <td>{{ movie_item.movie }}</td>
+            <td>{{ movie_item.rating }}</td>
+            <td>{{ movie_item.release_date }}</td>
+            <td>{{ movie_item.genre }}</td>
+            <td>{{ movie_item.certification }}</td>
+            <td>{{ movie_item.language }}</td>
+            <td>{{ movie_item.country }}</td>
+        </tr>
+    {% endfor %}
+    </tbody>
+</table>
+</div>
+<!-- <script>
+    $(document).ready(function() {
+        $('#tablepaginate').DataTable();
+    })
+</script> -->

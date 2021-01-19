@@ -1,0 +1,7 @@
+{% extends "base.html" %}
+{% block content %}
+    <button>Scrape</button>
+    <button href="{% url 'filter_view' %}">Filter1</button>
+    <a href="{% url 'filter_view' %}"><button>Filter View</button></a>
+    <button>Stats</button>
+{% endblock %}

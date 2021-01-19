@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block content %}
+    <ul>
+        <li>
+            <label for="movie_rating">Choose ImDb rating</label>
+            <select name="movie_rating" id="movie_ratings" multiple>
+                <option value="9">9</option>
+                <option value="8">8</option>
+                <option value="7">7</option>
+                <option value="6">6</option>
+            </select>
+        </li>
+        <li>
+            <label for="movie_language">Choose language</label>
+            <select name="movie_language" id="language" multiple>
+                <option value="english">English</option>
+                <option value="hindi">Hindi</option>
+                <option value="bengali">Bengali</option>
+                <option value="tamil">Tamil</option>
+            </select>
+        </li>
+    </ul>
+{% endblock}

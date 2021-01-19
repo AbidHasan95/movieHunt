@@ -1,0 +1,93 @@
+<div style="padding: 0px 30px;">
+    {% load static %}
+    <div class="container justify-content-center focusMoviesList" style="display: none;">
+        <div class="p2">
+            <table class="text-center table table-bordered table-striped table-hover">
+                <tr id="focusMovie">
+                    <th>Movie name</th>
+                    <!-- <td>Avengers 1</td>
+                    <td>Avengers 2</td>
+                    <td>Avengers 3</td> -->
+                </tr>
+                <tr id="focusRating">
+                    <th>IMDb Rating</th>
+                    <!-- <td>9.0</td>
+                    <td>8.8</td>
+                    <td>7.5</td> -->
+                </tr>
+                <tr id="focusGenre">
+                    <th>Genre</th>
+                    <!-- <td>Action, Comedy</td>
+                    <td>Adventure</td>
+                    <td>Sci-fi</td> -->
+                </tr>
+            </table>
+        </div>
+        <div class="p2 text-center">
+            <form method="POST">
+                {% csrf_token %}
+                <input type="text" name="focusRankingsInput" id="focusRankingsInput" style="display: none;">
+                <button class="btn btn-outline-dark" type="submit">Fetch Similar</button>
+            </form>
+        </div>
+    </div>
+    <div>
+        <table id="tablepaginate" class="hover stripe order-column moviesList">
+            <thead>
+                <tr>
+                    <th>Ranking</th>
+                    <th>Movie name</th>
+                    <th>ImDb Rating</th>
+                    <th>Release Date</th>
+                    <th>Genre</th>
+                    <th>Certification</th>
+                    <th>Language</th>
+                    <th>Country</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for movie_item in movieitems %}
+                <tr>
+                    <td>{{ movie_item.ranking }}</td>
+                    <td>{{ movie_item.movie }}</td>
+                    <td>{{ movie_item.rating }}</td>
+                    <td>{{ movie_item.release_date }}</td>
+                    <td>{{ movie_item.genre }}</td>
+                    <td>{{ movie_item.certification }}</td>
+                    <td>{{ movie_item.language }}</td>
+                    <td>{{ movie_item.country }} <img class="addmovie" value="{{ forloop.counter0 }}"
+                            src="{% static 'recommendation/add_circle_black.png' %}" style="height: 25px;float: right;">
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div>
+<script>
+    // https://love2dev.com/blog/javascript-remove-from-array/
+    $('.addmovie').click(function () {
+        index = $(this).attr('value');
+        currentRow = $(this).closest('tr');
+        var ranking = currentRow.find("td:eq(0)").text()
+        var movie = currentRow.find("td:eq(1)").text()
+        var genre = currentRow.find("td:eq(4)").text()
+        var rating = currentRow.find("td:eq(2)").text()
+        console.log(index, movie, rating, ranking, genre);
+        $('#focusMovie').append("<td>" + movie + "</td>");
+        $('#focusRating').append("<td>" + rating + "</td>");
+        $('#focusGenre').append("<td>" + genre + "</td>");
+        // $('#focusMovie').append("<td>abcd</td>");
+        // console.log(mydata)
+        x = $("#focusRankingsInput").val()
+        if (x.length) {
+            $("#focusRankingsInput").val(x + ", " + ranking);
+        }
+        else {
+            $("#focusRankingsInput").val(ranking);
+        }
+        $(".focusMoviesList").css("display", "table");
+
+    });
+
+</script>
