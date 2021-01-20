@@ -13,6 +13,6 @@
 <img src="assets/similar-movies2.gif" style="max-width: 1000px;"/>
 
 ---
-## Movies as data points in an interractive 3-D scatter plot
+## Movies as data points in an interactive 3-D scatter plot
 
-<img src="assets/visualize.gif" style="max-width: 1000px;"/>
+<img src="assets/visualize2.gif" style="max-width: 1000px;"/>
